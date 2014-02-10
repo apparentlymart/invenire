@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Invenire</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="activity_texts">Invenire Texts</string>
+    <string name="activity_words">Invenire Words</string>
+    <string name="title_activity_words_main">Invenire Words</string>
+
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_authors">Authors</string>
+    <string name="nav_works">Works</string>
+    <string name="category_drama">Drama</string>
+    <string name="category_prose">Prose</string>
+    <string name="category_poetry">Poetry</string>
+    <string name="category_medical">Medical Texts</string>
+    
+</resources>
